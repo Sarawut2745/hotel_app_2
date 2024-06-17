@@ -1,6 +1,6 @@
 # hotel_app_2
 
-A new Flutter project.
+This work is for submitting work to teachers.
 
 ## Getting Started
 
